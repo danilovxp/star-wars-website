@@ -8,8 +8,12 @@
 <h2 align="center">Built With</h2>
 
 <p align="center">
+<span> 
 - React.js
+</span>
+<span>
 - Styled Components
+</span>
 </p>
 
 <h2 align="center">Live Demo</h2>
