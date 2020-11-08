@@ -1,7 +1,7 @@
 <h1 align="center"> Star Wars Responsive Web Site </h1>
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://media.giphy.com/media/vEBXZLLGT8Y8E8VF7d/giphy.gif">
 </p>
 
 
